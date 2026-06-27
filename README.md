@@ -1,7 +1,1 @@
-# Ins
-# Ins
-# Ins
-# Ins
-# Ins
-# Ins
-# Ins
+Sahur-system это простейший автозапуск приложений написаный на python
